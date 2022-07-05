@@ -1,2 +1,2 @@
 # alura-git
-Atividades realizadas no curso da Alura sobre Gîț e Github.
+Atividades realizadas no curso da Alura sobre Git e Github.
